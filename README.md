@@ -2,15 +2,15 @@
 
 ## Running the Application
 
-The application is deployed on Streamlit and available here: 
-To run the app locally, you need to run the following commands:
+The application is deployed on Streamlit and available here: https://annbuchwald-beverage-detection-appapp-n5173h.streamlit.app/
+To run the app locally, you need to run the following commands: 
 ```bash
 # Install the requirements
 pip install -r requirements.txt
 # Start the app
 streamlit run app/app.py
 ```
-Now, you should be able to access the app on 
+Now, you should be able to access the app on http://localhost:8501
 
 ## Training the model
 
